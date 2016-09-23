@@ -1,0 +1,86 @@
+.msv_mics_items {
+	position: relative;
+	margin: 0;
+
+	list-style: none;
+}
+
+.msv_mics_item {
+	float: left;
+	margin: 20px 1.5% -500px 1.5%;
+	padding-bottom: 500px;
+	width: 20.75%;
+
+	text-align: left;
+
+	background-color: #D4D4D4;
+}
+
+.msv_mics_item_inner {
+	
+}
+
+.msv_mics_itemImage {
+	height: 200px;
+
+	background-position: center top;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.msv_mics_item_inner > h3 {
+	margin: 0;
+	padding: 10px;
+
+	line-height: 1.2em;
+}
+
+.msv_mics_itemTitle {
+	margin-top: -10px;
+}
+.msv_mics_itemDesc {
+	display: block;
+	padding: 10px;
+}
+
+.msv_mics_itemLink {
+	display: block;
+	position: absolute;
+	margin-left: 10px;
+	bottom: -40px;
+
+	color: #4D4D4D !important;
+}
+.msv_mics_itemLink:after {
+	display: inline-block;
+	position: relative;
+	margin-left: 10px;
+	top: 5px;
+	width: 20px;
+	height: 20px;
+
+	content: " ";
+
+	background: url(../../Portals/_default/Skins/Venture/images/sm-arrow-b.png) center center no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+	.msv_mics_item {
+		display: block;
+		float: none;
+		margin: 20px 0px 45px 0px;
+		padding-bottom: 0;
+		width: 100%;
+	}
+	.msv_mics_itemDesc {
+		padding-bottom: 40px;
+	}
+	.msv_mics_itemLink {
+		position: relative;
+		bottom: 10px;
+	}
+}
