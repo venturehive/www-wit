@@ -1364,29 +1364,29 @@
 /*---===<<< FONTS >>>===---*/
 @font-face {
   font-family: 'Segoe UI';
-  src: url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot');
-  src: local("Segoe UI Light"), local("Segoe WP Light"), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot?#iefix') format('embedded-opentype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.woff') format('woff'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.ttf') format('truetype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.svg#web') format('svg');
+  src: url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot');
+  src: local("Segoe UI Light"), local("Segoe WP Light"), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.eot?#iefix') format('embedded-opentype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.woff') format('woff'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.ttf') format('truetype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Light/latest.svg#web') format('svg');
   font-weight: 200;
   font-style: normal;
 }
 @font-face {
   font-family: 'Segoe UI';
-  src: url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.eot');
-  src: local("Segoe UI"), local("Segoe"), local("Segoe WP"), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.eot?#iefix') format('embedded-opentype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.woff') format('woff'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.ttf') format('truetype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.svg#web') format('svg');
+  src: url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.eot');
+  src: local("Segoe UI"), local("Segoe"), local("Segoe WP"), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.eot?#iefix') format('embedded-opentype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.woff') format('woff'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.ttf') format('truetype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.svg#web') format('svg');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Segoe UI';
-  src: url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.eot');
-  src: local("Segoe UI Semibold"), local("Segoe Semibold"), local("Segoe WP Semibold"), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.eot?#iefix') format('embedded-opentype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.woff') format('woff'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.ttf') format('truetype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.svg#web') format('svg');
+  src: url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.eot');
+  src: local("Segoe UI Semibold"), local("Segoe Semibold"), local("Segoe WP Semibold"), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.eot?#iefix') format('embedded-opentype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.woff') format('woff'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.ttf') format('truetype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Semibold/latest.svg#web') format('svg');
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: 'Segoe UI';
-  src: url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.eot');
-  src: local("Segoe UI Bold"), local("Segoe Bold"), local("Segoe WP Bold"), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.eot?#iefix') format('embedded-opentype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.woff') format('woff'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.ttf') format('truetype'), url('http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.svg#web') format('svg');
+  src: url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.eot');
+  src: local("Segoe UI Bold"), local("Segoe Bold"), local("Segoe WP Bold"), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.eot?#iefix') format('embedded-opentype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.woff') format('woff'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.ttf') format('truetype'), url('https://i.s-microsoft.com/fonts/Segoe-UI/West-European/Bold/latest.svg#web') format('svg');
   font-weight: 700;
   font-style: normal;
 }
